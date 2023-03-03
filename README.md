@@ -24,6 +24,8 @@ $.done()
 
 ### Features
 - Simplicity
+- Simplicity
+- Simplicity
 - Works for pure ESM TypeScript
 - Batteries included i.e. `expect` is provided with plugins:
   - chai-http
