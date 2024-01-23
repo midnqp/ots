@@ -1,5 +1,3 @@
-## An Oversimplified Test Runner
-
 <img height=250 width=auto src="https://user-images.githubusercontent.com/90899789/180600941-107a6877-f443-498d-8e64-d5dc6b9aa82d.png">
 
 ### Prelude
